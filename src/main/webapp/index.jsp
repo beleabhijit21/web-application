@@ -1,10 +1,9 @@
 <html>
 <body>
-<h2>प्राणपणाने लढून राजा तूच जिंकले किल्ले,
-शत्रूंना सदा परतून तूच लावले हल्ले
-धर्म रक्षणा तूच घेतला जन्म जिजाऊ पोटी,
-हे शिवराय प्रणाम तुजला कोटी-कोटी.
+<h2>Bravery is my soul! Thoughts and conscience are my identities! Kshatriya is my religion! Chhatrapati Shivarai is my god! Yes, I am Marathi! Jai Shivarai !!
 
-शिवजयंतीच्या हार्दिक शुभेच्छा!</h2>
+Happy Shivaji Jayanti</h2>
+<!-- Adding an image -->
+<img src="https://wishesandquotes.com/wp-content/uploads/2020/02/shivaji-jayanti_759.jpg" alt="Shivaji Jayanti Image">
 </body>
 </html>
